@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.basistech:common-api-jackson:36.1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.basistech/common-api-jackson/bundles/common-api-jackson-36.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.basistech/common-api-jackson/srcs/common-api-jackson-36.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
